@@ -443,7 +443,8 @@ footer {
     cursor: pointer;
   }
   .feature-more {
-    display: grid;
+    display: flex;
+    flex-direction: column-reverse;
     padding: 48px 16px;
   }
   img {
