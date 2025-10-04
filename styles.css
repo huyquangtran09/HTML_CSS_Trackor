@@ -38,7 +38,6 @@ header {
   display: flex;
   align-items: center;
   height: 80px;
-  border-bottom: 1px solid #e6e8ec;
   padding: 24px 80px;
 }
 
@@ -136,7 +135,7 @@ header {
   color: #CBD5E1;
   font-size: 24px;
   font-weight: 700;
-  margin-bottom: 40px;
+  margin-bottom: 80px;
 }
 
 .trusted-by-logos ul {
@@ -198,7 +197,7 @@ header {
   justify-content: space-between;
   align-items: center;
   gap: 80px;
-  margin: 153px 80px;
+  margin: 80px 80px;
 }
 
 .feature-detail-text {
