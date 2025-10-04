@@ -10,7 +10,6 @@ body{
 .logo {
   width: 87px;
   height: 35px;
-  background-color: black;
   color: white;
 }
 .container {
@@ -67,7 +66,6 @@ header {
 .hero {
   text-align: center;
   padding: 80px 80px;
-  background-color: black;
 }
 
 .hero-title-main {
@@ -239,7 +237,6 @@ header {
 /* ===== FEATURE CARDS SECTION ===== */
 
 .feature-cards {
-  background-color: black;
   text-align: center;
   padding-bottom: 80px;
 }
